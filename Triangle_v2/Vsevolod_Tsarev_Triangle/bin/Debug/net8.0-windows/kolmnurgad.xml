@@ -1,0 +1,34 @@
+<Triangles>
+  <Triangle>
+    <SideA>153</SideA>
+    <SideB>153</SideB>
+    <SideC>10</SideC>
+    <Perimeter>316</Perimeter>
+    <Area>764,59</Area>
+    <Exist>True</Exist>
+    <TriangleType>võrdhaarne</TriangleType>
+  </Triangle>
+  <Triangle>
+    <SideA>21</SideA>
+    <SideB>12</SideB>
+    <SideC>21</SideC>
+    <Perimeter>54</Perimeter>
+    <Area>120,75</Area>
+    <Exist>True</Exist>
+    <TriangleType>võrdhaarne</TriangleType>
+  </Triangle>
+  <Triangle>
+    <SideA>21</SideA>
+    <SideB>21</SideB>
+    <SideC>12</SideC>
+    <Perimeter>54</Perimeter>
+    <Area>120,75</Area>
+    <Exist>True</Exist>
+    <TriangleType>võrdhaarne</TriangleType>
+  </Triangle>
+  <Triangle>
+    <SideA>3</SideA>
+    <Height>1</Height>
+    <Area>0</Area>
+  </Triangle>
+</Triangles>
